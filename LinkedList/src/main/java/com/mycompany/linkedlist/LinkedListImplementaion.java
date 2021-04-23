@@ -34,7 +34,7 @@ public class LinkedListImplementaion {
         head = new_node;
     }
 
-    // Prints contents of linked list 
+    // Prints contents of linked list starting
     public void printList() {
         Node tnode = head;
         while (tnode != null) {
