@@ -52,3 +52,11 @@ executed people are removed), until only the last person remains, who is given f
 i.) An array is provided indicating the number of seats to be counted at index 0 and the total number of seating positions in index 1
 
 ii.) Seating positions are eliminated until there is only one seat left; the safe position
+
+## Tree ADT
+
+Tree ADT is implemented using binary search
+
+In the main method, elements are added to the tree and a key specified to serch for. 
+
+If the key is found in the tree, a message displays saying the key has been found. The negative is said if not found.
